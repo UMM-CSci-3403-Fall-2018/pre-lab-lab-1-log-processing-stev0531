@@ -1,0 +1,6 @@
+
+0) /(\w+), (\w+)/
+
+1) /I am (\w+). My favorite sandwich is (\w+)/
+
+2) /sandwich with (\S+) (.*)/
